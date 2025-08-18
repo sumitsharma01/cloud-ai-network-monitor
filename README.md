@@ -9,5 +9,5 @@ Utilizes microservices, containerization, secure APIs, and React dashboard. Demo
 - Kafka for event streaming  
 - PostgreSQL for incident data  
 - React.js for frontend dashboard  
-- Docker & Kubernetes for containerization  
-- GitHub Actions for CI/CD
+- Docker & Kubernetes for containerization. 
+- GitHub Actions for CI/CD.
