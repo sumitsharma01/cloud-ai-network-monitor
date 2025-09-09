@@ -39,7 +39,7 @@ This project uses the UNSW-NB15 dataset, a modern benchmark dataset for network 
 - `UNSW_NB15_testing-set.csv`: 82,332 records for testing.
 
 ### Why This Dataset?
-- Realistic simulation of modern cyber-attacks and normal network behavior.
+- Realistic simulation of modern cyber-attacks and normal network behaviour.
 - Widely used in intrusion detection and anomaly detection research.
 - Supports both supervised (classification) and unsupervised (anomaly detection) approaches.
 
