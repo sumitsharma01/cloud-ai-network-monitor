@@ -32,7 +32,6 @@ This project uses the UNSW-NB15 dataset, a modern benchmark dataset for network 
     - Reconnaissance
     - Shellcode
     - Worms
-
 ### File Structure
 - `UNSW-NB15_1.csv` – `UNSW-NB15_4.csv`: Raw packet-based datasets (100k records each).
 - `UNSW_NB15_training-set.csv`: 175,341 records for training.
