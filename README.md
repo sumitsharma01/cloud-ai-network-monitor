@@ -1,5 +1,4 @@
 # Cloud AI Network Monitor
-
 ## Project Vision
 Build a cloud-native, event-driven network monitoring platform leveraging AI/ML for real-time anomaly detection and incident response.  
 Utilises microservices, containerization, secure APIs, and React dashboard. Demonstrates Agile best practices, CI/CD, and cloud architecture.
